@@ -1,0 +1,5 @@
+.env
+venv
+.idea
+bot/__pycache__
+bot/exts/__pycache__
