@@ -3,3 +3,4 @@ venv
 .idea
 bot/__pycache__
 bot/exts/__pycache__
+*.db
